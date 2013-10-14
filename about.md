@@ -1,33 +1,17 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: Jenny Rose
+tags: [about]
+modified: 2013-10-14
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: about-image.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+Hullo there! My name is Jenny Rose, I'm 27, and I'm an obsessive autodidact. I'm constantly marinating in literature, notebooks, and tea. I'm a web development student at Hennepin Technical College, switching gears after studying photography at Columbus College of Art and Design for four years.[^1] 
 
-## So Simple Theme is all about:
+I was born in Fort Knox, Kentucky, spent the first 7 years of my life in Germany, did the rest of my growing up in Ohio, and now live in the Twin Cities area with my boyfriend, five computers, and three consoles[^2]. We're compensating for the lack of fur babies in my life.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+[^1]: I don't recommend art school. It's expensive, and I didn't learn anything that I couldn't have learned on my own. Still, it was an interesting experience!
+[^2]: 27" iMac, 13" Macbook Pro (my machines), a custom Windows machine, two work laptops (his, both Macbook Pros), Wii U, X-box 360, and PS3. None of them have names, but they probably should.

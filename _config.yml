@@ -1,20 +1,18 @@
-title:            Site Title
-description:      Describe your website here.
+title:            jenny rose
+description:      marginalia and scraps
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+#url:              http://your-website.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jenny Coffman
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          scarling@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter: http://twitter.com/jenny_roses                      
   stackexchange:  
   linkedin:       
   instagram:      
@@ -34,16 +32,14 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Notebook
+    url: /notebook
+  - title: Github
+    url: http://github.com/jenny-rose
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
 pygments:    true
 markdown:    kramdown
